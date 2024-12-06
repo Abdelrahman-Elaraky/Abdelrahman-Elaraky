@@ -4,7 +4,9 @@
 
 
 
-- 🌱 I’m currently learning **Flutter,Dart,Git,OOP**
+
+- 💻 I am skilled in Flutter development and enjoy creating user-friendly mobile applications.
+- 🔍 I am always eager to learn and explore new technologies to enhance my skills and contribute to impactful projects.
 
 - 📫 How to reach me **abdoel3arkey@gmail.com**
 
